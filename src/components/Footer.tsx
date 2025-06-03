@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div className="flex items-center mb-4 md:mb-0">
             <Shield className="w-5 h-5 text-blue-600 dark:text-blue-400 mr-2" />
             <span className="text-gray-600 dark:text-gray-300 text-sm">
-              URL Guardian © {new Date().getFullYear()}
+              Develop By Shashikant © {new Date().getFullYear()}
             </span>
           </div>
           

@@ -1,0 +1,27 @@
+# 🔗 Real-Time URL Checking
+
+Real-Time URL Checking is a  Node.js-based utility for verifying the status, availability, and safety of URLs in real time.
+
+## ✅ Project Description
+    Real-Time URL Checking is a tool that monitors and verifies the status and safety of URLs in real time. Whether you're validating links in your application, building a security tool to detect malicious URLs, or simply checking the uptime of websites, this utility gives you fast and reliable results using modern HTTP methods and (optionally) threat intelligence APIs.
+
+## 🚀 Features
+
+- 🔄 Real-time HTTP/HTTPS status checks
+- 🛡️ (Optional) Integration with threat detection APIs (Google Safe Browsing, VirusTotal, etc.)
+- ⏱️ Response time metrics
+- 📉 Retry logic and error handling
+- 📤 Exportable logs in JSON or CSV format
+- 📡 Bulk URL processing (from files or APIs)
+- 🌐 Proxy and User-Agent customization
+
+## ✅ To-Do
+
+    ├── Add browser-based checks (headless)
+    │
+    ├── Support for asynchronous requests
+    │
+    ├── GUI or dashboard
+    │
+    └── Docker support
+
